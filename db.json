@@ -1,0 +1,34 @@
+{
+  "salad": [
+    { "id": 1, "name": "Cole-slaw" },
+    { "id": 2, "name": "Freshness" },
+    { "id": 3, "name": "Garlicky" }
+  ],
+  "vegetables": [
+    { "id": 1, "vegetables": ["tomatoes", "cabbage"] },
+    { "id": 2, "vegetables": ["carrot", "onion", "beet"] },
+    { "id": 3, "vegetables": ["potatos", "garlic", "cucumber"] }
+  ],
+  "meat": [
+    { "id": 1, "meat": ["chicken"] },
+    { "id": 2, "meat": ["pork"] },
+    { "id": 3, "meat": ["beef"] }
+  ],
+  "ingredients": [
+    {
+      "vegetables": ["tomatoes", "cabbage"],
+      "meat": ["chicken"],
+      "imgUrl": "http://za100lie.com/images/1462848487.png"
+    },
+    {
+      "vegetables": ["carrot", "onion", "beet"],
+      "meat": ["pork"],
+      "imgUrl": "http://za100lie.com/images/1462972657.png"
+    },
+    {
+      "vegetables": ["potatos", "garlic", "cucumber"],
+      "meat": ["beef"],
+      "imgUrl": "http://za100lie.com/images/1462972829.png"
+    }
+  ]
+}
